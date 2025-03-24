@@ -34,7 +34,6 @@ docker-compose.override.*.yml
 __MACOSX/
 Thumbs.db
 alembic/versions/
-alembic.ini
 redis/
 tests/__pycache__/
 tests/test_*.py
