@@ -122,7 +122,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/username/url-shortener.git
+git clone https://github.com/NesterovEvgeniy/url-shortener.git
 cd url-shortener
 ```
 
@@ -145,7 +145,7 @@ docker-compose up -d
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/username/url-shortener.git
+git clone https://github.com/NesterovEvgeniy/url-shortener.git
 cd url-shortener
 ```
 
